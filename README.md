@@ -54,7 +54,7 @@
 <br/>
 
 ## 배포 링크
-
+https://pre-onboarding-10th-1-3.vercel.app/
 <br/>
 
 ## 동작 화면
